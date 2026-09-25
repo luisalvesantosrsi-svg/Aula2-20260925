@@ -1,0 +1,2 @@
+Cirei o ficheiro2.txt localmente
+
